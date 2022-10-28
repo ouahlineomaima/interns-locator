@@ -1,0 +1,27 @@
+[
+  {
+    "latitude": 30.64438515,
+    "longitude": -9.601830678196873,
+    "location": "Région d'Agadir",
+    "company_count": { "GPC CARTON": 1 }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "company_count": {
+      "CENTRE FOR EXCELLENCE IN INFORMATION TECHNOLOGY": 2,
+      "NURV AU": 1,
+      "NEOXIA Maroc": 1
+    }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Rabat - Sal\u00e9 - K\u00e9nitra, Maroc",
+    "company_count": {
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 2,
+      "OFFICE NATIONAL INTERPROF CEREALES": 1
+    }
+  }
+]

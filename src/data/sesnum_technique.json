@@ -1,0 +1,44 @@
+[
+  {
+    "latitude": 11.568271,
+    "longitude": 104.9224426,
+    "location": "Phnom Penh, Cambodia",
+    "company_count": { "Kynex | Smart Digital Business Solutions": 1 }
+  },
+  {
+    "latitude": 30.42203615,
+    "longitude": -9.55950887633639,
+    "location": "Agadir, Souss-Massa, Morocco",
+    "company_count": { "ADI SOLAR ENERGY": 1, "Azura Group": 1 }
+  },
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": { "Huawei Northern Africa Region": 1 }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Morocco",
+    "company_count": { "ValueIT": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Rabat - Sal\u00e9 - K\u00e9nitra, Maroc",
+    "company_count": {
+      "ENOVA R&T": 1,
+      "INTELLCAP SARL": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communications": 2,
+      "Orange Digital Center": 1,
+      "Huawei Tech": 1
+    }
+  },
+  {
+    "latitude": 34.26457,
+    "longitude": -6.570169,
+    "location": "Kenitra, Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "Stellantis": 1 }
+  }
+]

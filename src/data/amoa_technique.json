@@ -1,0 +1,30 @@
+[
+  {
+    "latitude": 31.6258257,
+    "longitude": -7.9891608,
+    "location": "Marrakech",
+    "company_count": { "J2CD Marrakech": 1 }
+  },
+  {
+    "latitude": 33.2627128,
+    "longitude": -7.9639028,
+    "location": "Casablanca - Settat, Maroc",
+    "company_count": { "Fidaroc Grant Thornton": 1 }
+  },
+  {
+    "latitude": 33.54288375,
+    "longitude": -7.640472784108402,
+    "location": "Technopark, Casablanca",
+    "company_count": { "I-Gouv": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat",
+    "company_count": {
+      "DXC Technology Morocco": 1,
+      "ifnilink": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communications \u00b7 Ind": 1
+    }
+  }
+]

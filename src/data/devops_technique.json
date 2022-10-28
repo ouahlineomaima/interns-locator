@@ -1,0 +1,84 @@
+[
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Maroc",
+    "company_count": {
+      " Center for Excellence in Information Technology (CEIT)": 1
+    }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "company_count": { "INTELCIA": 1, "NEOXIA Maroc": 1 }
+  },
+  {
+    "latitude": 33.6958383,
+    "longitude": -7.3893292,
+    "location": "Mohammedia, Casablanca-Settat, Morocco",
+    "company_count": { "Matious Digital": 1 }
+  },
+  {
+    "latitude": 33.897877,
+    "longitude": -5.5320345,
+    "location": "Mekn\u00e8s, Morocco",
+    "company_count": { "Lafar": 1 }
+  },
+  {
+    "latitude": 33.9204332,
+    "longitude": -6.3676093,
+    "location": "Rabat-Sal\u00e9-Kenitra, Morocco",
+    "company_count": { "DXC Technology": 1 }
+  },
+  {
+    "latitude": 33.9667424,
+    "longitude": -6.842641008106102,
+    "location": "Pr\u00e9fecture de Rabat, Morocco",
+    "company_count": {
+      "FLEXI APPS": 1,
+      "Office National des Chemins de Fer (ONCF)": 1,
+      "Orange Maroc": 1
+    }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat ",
+    "company_count": {
+      "Minist\u00e8re de la commu": 1,
+      "Esport Academy Corporation": 1,
+      "Fondation MAScIR": 1,
+      "Poste Maroc (Barid Al Maghrib)": 1,
+      "WinDecision": 1,
+      "ADVALIO": 1,
+      "Henceforth": 1,
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 2,
+      "High Atlas Foundation": 1
+    }
+  },
+  {
+    "latitude": 35.570175,
+    "longitude": -5.3742776,
+    "location": "T\u00e9touan ",
+    "company_count": { "Veolia": 1 }
+  },
+  {
+    "latitude": 35.8885993,
+    "longitude": 14.4476911,
+    "location": "Malta",
+    "company_count": { "Stipend": 1 }
+  },
+  {
+    "latitude": 36.778259,
+    "longitude": -119.417931,
+    "location": "Californie, \u00c9tats-Unis",
+    "company_count": { "Metabob": 1 }
+  },
+  {
+    "latitude": 50.0012314,
+    "longitude": 8.2762513,
+    "location": "Mainz, Rhineland-Palatinate, Germany",
+    "company_count": { "LIME": 1 }
+  }
+]

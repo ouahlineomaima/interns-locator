@@ -1,0 +1,32 @@
+[
+  {
+    "latitude": 19.0603228,
+    "longitude": 72.83474055233081,
+    "location": "Rabat, Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "Effyis Partners": 1 }
+  },
+  {
+    "latitude": 33.2627128,
+    "longitude": -7.9639028,
+    "location": "Casablanca - Settat, Maroc",
+    "company_count": { "BI-SKILLS": 1, "Effyis Group": 1 }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "company_count": { "RIBATIS": 2, "BMCE Bank": 1 }
+  },
+  {
+    "latitude": 33.9204332,
+    "longitude": -6.3676093,
+    "location": "Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "Haut Commissariat au Plan": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Casablanca, Maroc",
+    "company_count": { "DXC Technology Morocco": 1 }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "latitude": 30.64438515,
+    "longitude": -9.601830678196873,
+    "location": "Pr\u00e9fecture d\u2019Agadir Ida-Outanane, Morocco",
+    "company_count": { "AGRIDATA CONSULTING": 1 }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Morocco",
+    "company_count": { "OCP SA": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco",
+    "company_count": { "Henceforth": 1 }
+  }
+]

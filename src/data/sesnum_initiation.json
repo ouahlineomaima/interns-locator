@@ -1,0 +1,29 @@
+[
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": { "1 Minute Script": 1 }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Morocco",
+    "company_count": { "Altran": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Rabat-Sale, Morocco",
+    "company_count": {
+      "Soft Centre": 1,
+      "Minist\u00e8re de communication du royaume ": 1
+    }
+  },
+  {
+    "latitude": 35.777103,
+    "longitude": -5.803792,
+    "location": "Tanger",
+    "company_count": { "Naturgy": 1 }
+  }
+]

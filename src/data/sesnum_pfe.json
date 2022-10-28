@@ -1,0 +1,29 @@
+[
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": { "Siemens Digital Industries Software": 1 }
+  },
+  {
+    "latitude": 33.9204332,
+    "longitude": -6.3676093,
+    "location": "Rabat-Sal\u00e9-Kenitra, Morocco",
+    "company_count": {
+      "Lear Corporation": 2,
+      "Siemens Digital Industries Software": 1
+    }
+  },
+  {
+    "latitude": 35.202941,
+    "longitude": -5.5510167,
+    "location": "Tanger-Tetouan-Al Hoceima, Morocco",
+    "company_count": { "DENSO": 1 }
+  },
+  {
+    "latitude": 43.6112422,
+    "longitude": 3.8767337,
+    "location": "Montpellier, Occitanie, France",
+    "company_count": { "Universit\u00e9 de Mon": 1 }
+  }
+]

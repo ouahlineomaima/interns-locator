@@ -1,0 +1,14 @@
+[
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Morocco",
+    "company_count": { "Deloitte": 1 }
+  },
+  {
+    "latitude": 48.8976716,
+    "longitude": 2.1026594,
+    "location": "Le Pecq, \u00cele-de-France, France",
+    "company_count": { "CULTYDATA": 1 }
+  }
+]

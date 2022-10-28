@@ -1,0 +1,17 @@
+[
+  {
+    "latitude": 30.42203615,
+    "longitude": -9.55950887633639,
+    "location": "Agadir ",
+    "company_count": { "St\u00e9 SOUSS Gaz": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Maroc",
+    "company_count": {
+      "Netopia-Solutions": 1,
+      "TGR - Minist\u00e8re de finance": 1
+    }
+  }
+]

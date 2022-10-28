@@ -1,0 +1,50 @@
+[
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": { "INTELCIA": 1, "4D": 1 }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": "Casablanca",
+    "company_count": {
+      "Soci\u00e9t\u00e9 g\u00e9n\u00e9rale Africa Technologies and ": 1,
+      "Oracle": 1,
+      "Banque Centrale Populaire - BCP": 1,
+      "CBI": 1,
+      "Taillis Labs": 1,
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale - Africa Technologies & Services": 1,
+      "Matious Digital": 1,
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale African Business Services": 1,
+      "OpsVox": 1
+    }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Maroc",
+    "company_count": { "Ericsson": 1, "4D": 1, "FY COMPUTING": 1, "Graviton.ma": 1 }
+  },
+  {
+    "latitude": 35.777103,
+    "longitude": -5.803792,
+    "location": "Tanger, Morocco",
+    "company_count": { "Yazaki": 1 }
+  },
+  {
+    "latitude": 48.1113387,
+    "longitude": -1.6800198,
+    "location": "Rennes, Bretagne, France",
+    "company_count": {
+      "D\u00e9partement SRDC \"Syst\u00e8mes r\u00e9seaux, cybers\u00e9curit\u00e9 et droit du num\u00e9rique\" de l'IMT Atlantique": 1
+    }
+  },
+  {
+    "latitude": 48.6443057,
+    "longitude": 2.7537863,
+    "location": "Malakoff, France",
+    "company_count": { "D-AIM": 1 }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "latitude": 30.3927088,
+    "longitude": -9.2132982,
+    "location": "Ouled Teima",
+    "company_count": { "Banque Populaire du Maroc (Gro": 1 }
+  },
+  {
+    "latitude": 30.42203615,
+    "longitude": -9.55950887633639,
+    "location": "AGADIR",
+    "company_count": { "Marsa Maroc": 1 }
+  },
+  {
+    "latitude": 30.64438515,
+    "longitude": -9.601830678196873,
+    "location": "Pr\u00e9fecture d\u2019Agadir Ida-Outanane, Morocco",
+    "company_count": {
+      "Offshore Valley, Outsourcing,Development,Call Center \u00b7 Tem": 1
+    }
+  },
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": { "1 Minute Script": 1 }
+  },
+  {
+    "latitude": 31.6258257,
+    "longitude": -7.9891608,
+    "location": "Marrakesh-Safi, Morocco",
+    "company_count": { "AFRICA OFFICE": 1 }
+  },
+  {
+    "latitude": 31.6277862,
+    "longitude": -7.9833943,
+    "location": "Safi, Marrakesh-Safi, Morocco",
+    "company_count": { "UNIVERT": 1 }
+  },
+  {
+    "latitude": 31.7203273,
+    "longitude": -8.154168354683915,
+    "location": "Pr\u00e9fecture de Marrakech, Morocco",
+    "company_count": { "SAVOY LE GRAND HOTEL MARRAKECH": 1 }
+  },
+  {
+    "latitude": 32.334193,
+    "longitude": -6.353335,
+    "location": "Beni Mellal, B\u00e9ni Mellal-Kh\u00e9nifra, Morocco",
+    "company_count": { "Hassy Center": 1 }
+  },
+  {
+    "latitude": 33.2627128,
+    "longitude": -7.9639028,
+    "location": "Casablanca - Settat, Maroc",
+    "company_count": { "CENTRE FOR EXCELLENCE IN INFORMATION TECHNOLOGY": 1 }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Morocco",
+    "company_count": { "Altran": 1 }
+  },
+  
+  {
+    "latitude": 33.6958383,
+    "longitude": -7.3893292,
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "company_count": { "Vivo Energy": 1 }
+  },
+  {
+    "latitude": 33.9667424,
+    "longitude": -6.842641008106102,
+    "location": "Pr\u00e9fecture de Rabat, Morocco",
+    "company_count": {
+      "MINISTERE DE LA COMMU": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communication": 3,
+      "NolimitMaroc": 1,
+      "TALBO": 1,
+      "Minist\u00e8re de la jeunesse, de la Culture et de la Communication": 1,
+      "ANRT": 1
+    }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": " Rabat, Morocco",
+    "company_count": {
+      "ma": 1,
+      "Soft Centre": 1,
+      "Minist\u00e8re de la communication, Royaume du Maroc": 1,
+      "Minist\u00e8re de la communication ": 1,
+      "INGECYS SOLUTIONS": 1,
+      "Minist\u00e8re de la commu": 1,
+      "soci\u00e9t\u00e9 NURV \u00b7 Tem": 1,
+      "DXC Technology": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communications (INPT)": 1,
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 1,
+      "Minist\u00e8re de la Sant\u00e9 Publique Maroc": 1,
+      "Office Du D\u00e9veloppement De La Cooperation (ODCO)": 1,
+      "SoftCentre": 1
+    }
+  },
+  {
+    "latitude": 34.2861361,
+    "longitude": -4.153565199951867,
+    "location": "Province de Taza, Morocco",
+    "company_count": { "Universit\u00e9 Sidi Med Ben Abdellah": 1 }
+  },
+  {
+    "latitude": 34.966324150000005,
+    "longitude": -4.185488310932693,
+    "location": "Province d\u2019Al Hoce\u00efma, Morocco",
+    "company_count": { "Agence Urbaine d'AL": 1 }
+  },
+  {
+    "latitude": 35.777103,
+    "longitude": -5.803792,
+    "location": "Tanger",
+    "company_count": { "Naturgy": 1 }
+  }
+]

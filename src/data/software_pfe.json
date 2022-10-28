@@ -1,0 +1,157 @@
+[
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": {
+      "HPS": 1,
+      "NEO TECH IT": 1,
+      "Intelcia IT Solutions": 1,
+      "OMNILOG SAS": 1,
+      "Queria Services": 1,
+      "Siemens Digital Industries Software": 1
+    }
+  },
+  {
+    "latitude": 33.2627128,
+    "longitude": -7.9639028,
+    "location": "Casablanca - Settat, Maroc",
+    "company_count": {
+      "Payment Center For Africa - PCA": 1,
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale African Business Services": 1,
+      "Effyis Group": 1,
+      "Attijariwafa bank": 1
+    }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "company_count": {
+      "Banque Centrale Populai": 1,
+      "BANQUE CENTRALE P": 1,
+      "Banque Centrale Populaire - BCP": 1,
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale - Africa Technologies & Services": 1,
+      "Adria Business & Te": 1,
+      "EBC Sytem Morocco": 1
+    }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": "Agadir, Souss-Massa, Morocco",
+    "company_count": {
+      "Oracle": 1,
+      "AMAYNOTECH": 1,
+      "SoftyDev": 1,
+      "FinaMaze": 1,
+      "inwi": 1,
+      "Payment Center For Africa - PCA": 1,
+      "Corporate Software": 1,
+      "MTech Invest": 1,
+      "Payment Center For Africa": 1,
+      "NEO TECH IT": 1,
+      "Matious Digital": 1,
+      "SisPay": 1,
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale - Africa Technologies & Services": 1,
+      "Bouygues Construction": 1,
+      "INSOFT": 1,
+      "Adria Business & Technology": 1
+    }
+  },
+  {
+    "latitude": 33.917166,
+    "longitude": -6.923804,
+    "location": "T\u00e9mara, Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "AdelphaTech": 1 }
+  },
+  {
+    "latitude": 33.9667424,
+    "longitude": -6.842641008106102,
+    "location": "Pr\u00e9fecture de Rabat, Morocco",
+    "company_count": {
+      "Centre doctoral de l\u2019Institut National des Postes et T\u00e9l\u00e9communications du Maroc": 1,
+      "Digimind": 2,
+      "FY C": 1,
+      "ONHYM": 1,
+      "Synapticiel": 1,
+      "Exceliacom Solutions": 1,
+      "SIGE": 1,
+      "Office National des Chemins de Fer (ONCF)": 1,
+      "NEOSYS": 1,
+      "Henceforth": 1,
+      "Lear Corporation": 2,
+      "Graviton.ma": 1,
+      "Masarat App": 1,
+      "Omniconsulting \u00b7 Tem": 1,
+      "Siemens Digital Industries Software": 1,
+      "Stage PFE chez STS/": 1,
+      "4D Lo": 1,
+      "Brid": 1,
+      "Huawei Tech": 1,
+      "FY COMPUTING": 1,
+      "SMART MAHAL": 1,
+      "Siemens EDA (Siemens Digital Industries Software)": 1
+    }
+  },
+  {
+    "latitude": 34.044889,
+    "longitude": -6.814017,
+    "location": "Sale, Rabat-Sal\u00e9-Kenitra, Morocco",
+    "company_count": { "Lear Corporation": 1 }
+  },
+  {
+    "latitude": 35.202941,
+    "longitude": -5.5510167,
+    "location": "Tanger-Tetouan-Al Hoceima, Morocco",
+    "company_count": { "DENSO": 1 }
+  },
+  {
+    "latitude": 35.777103,
+    "longitude": -5.803792,
+    "location": "Tangier ",
+    "company_count": { "CIRES TECHNOLOGIES S.A": 1 }
+  },
+  {
+    "latitude": 43.6112422,
+    "longitude": 3.8767337,
+    "location": "Montpellier, Occitanie, France",
+    "company_count": { "Universit\u00e9 de Mon": 1 }
+  },
+  {
+    "latitude": 45.1379165,
+    "longitude": 5.3275564,
+    "location": "R\u00e9gion de Bourges, France",
+    "company_count": { "CGI": 1 }
+  },
+  {
+    "latitude": 45.1524,
+    "longitude": 5.74812,
+    "location": "Eybens, Auvergne-Rh\u00f4ne-Alpes, France",
+    "company_count": { "Schneider Electric": 1 }
+  },
+  {
+    "latitude": 47.2186371,
+    "longitude": -1.5541362,
+    "location": "Nantes, Pays de la Loire, France",
+    "company_count": { "GEOFIT": 1 }
+  },
+  {
+    "latitude": 48.1113387,
+    "longitude": -1.6800198,
+    "location": "Rennes, Bretagne, France",
+    "company_count": { "Groupe SII": 1 }
+  },
+  {
+    "latitude": 48.6443057,
+    "longitude": 2.7537863,
+    "location": "\u00cele-de-France, France",
+    "company_count": { "D-AIM": 1 }
+  },
+  {
+    "latitude": 48.8664651,
+    "longitude": 2.3578146,
+    "location": "Paris Area, France",
+    "company_count": { "Optionizr": 1 }
+  }
+]

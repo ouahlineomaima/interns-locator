@@ -1,0 +1,26 @@
+[
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Pr\u00e9fecture de Casablanca, Morocco",
+    "company_count": { "Scale": 1 }
+  },
+  {
+    "latitude": 33.9667424,
+    "longitude": -6.842641008106102,
+    "location": "Rabat Prefecture, Morocco",
+    "company_count": { "Soft Centre": 1, "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco",
+    "company_count": { "ANRT": 1 }
+  },
+  {
+    "latitude": 34.2861361,
+    "longitude": -4.153565199951867,
+    "location": "Province de Taza, Morocco",
+    "company_count": { "Universit\u00e9 Sidi Med Ben Abdellah": 1 }
+  }
+]

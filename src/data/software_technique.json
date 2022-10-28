@@ -1,0 +1,204 @@
+[
+  {
+    "latitude": 11.568271,
+    "longitude": 104.9224426,
+    "location": "Maroc,Rabat",
+    "company_count": { "Kynex | Smart Digital Business Solutions": 1 }
+  },
+  {
+    "latitude": 30.42203615,
+    "longitude": -9.55950887633639,
+    "location": "Agadir",
+    "company_count": {
+      "SOFTISSIME": 1,
+      "ADI SOLAR ENERGY": 1,
+      "Azura Group": 1,
+      "Searchcept": 1
+    }
+  },
+  {
+    "latitude": 31.1728205,
+    "longitude": -7.3362482,
+    "location": "Maroc",
+    "company_count": {
+      "INTELLCAP CORP": 1,
+      "Marine Royale": 1,
+      "Nokia solutions and n": 1,
+      "Huawei Northern Africa Region": 1
+    }
+  },
+  {
+    "latitude": 31.7203273,
+    "longitude": -8.154168354683915,
+    "location": "Pr\u00e9fecture de Marrakech, Morocco",
+    "company_count": { "UPSYS": 1 }
+  },
+  {
+    "latitude": 33.2627128,
+    "longitude": -7.9639028,
+    "location": "Casablanca - Settat, Maroc",
+    "company_count": { "OCP S.A": 1, "Schneider Electric": 1 }
+  },
+  {
+    "latitude": 33.5675527,
+    "longitude": -7.618756606822727,
+    "location": "Marrakesh-Safi, Maroc",
+    "company_count": {
+      "CDSInfo": 1,
+      "Atlanta-Compagnie D'Assurances et de Reassurances": 1,
+      "Nimble Ways": 1,
+      "ValueIT": 1
+    }
+  },
+  {
+    "latitude": 33.5950627,
+    "longitude": -7.6187768,
+    "location": " Casablanca, Morocco",
+    "company_count": {
+      "Huawei Technologies Enterprise": 1,
+      "ilem Group": 1,
+      "CASH PLUS": 1,
+      "Annour Tech": 1,
+      "Leyton": 1,
+      "Archipel Digital": 1
+    }
+  },
+  {
+    "latitude": 33.6958383,
+    "longitude": -7.3893292,
+    "location": "Mohammedia, Casablanca-Settat, Morocco",
+    "company_count": { "Matious Digital": 1 }
+  },
+  {
+    "latitude": 33.897877,
+    "longitude": -5.5320345,
+    "location": "Tanger, Morocco",
+    "company_count": { "Lafar": 1 }
+  },
+  {
+    "latitude": 33.917166,
+    "longitude": -6.923804,
+    "location": "T\u00e9mara, Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "Prestige Informatique": 1 }
+  },
+  {
+    "latitude": 33.9204332,
+    "longitude": -6.3676093,
+    "location": "Rabat - Sal\u00e9 - K\u00e9nitra, Maroc",
+    "company_count": {
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT) D\u00e9partement informatique.": 1,
+      "Intellcap": 1
+    }
+  },
+  {
+    "latitude": 33.95826505,
+    "longitude": -6.871280614128082,
+    "location": "RABAT AGDAL MAROC ",
+    "company_count": { "NICKEL IT SARL": 1 }
+  },
+  {
+    "latitude": 33.9667424,
+    "longitude": -6.842641008106102,
+    "location": "Rabat",
+    "company_count": {
+      "Octeria": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communications (INPT)": 1,
+      "M": 1,
+      "Moroccan economists forum": 1,
+      "Office National des Chemins de Fer (ONCF)": 1
+    }
+  },
+  {
+    "latitude": 33.974384099999995,
+    "longitude": -6.655698376097575,
+    "location": "Pr\u00e9fecture de Sal\u00e9, Morocco",
+    "company_count": { "NOVEC sa": 1 }
+  },
+  {
+    "latitude": 34.019705349999995,
+    "longitude": -6.834463577500664,
+    "location": "TechnoPark Rabat",
+    "company_count": { "F": 1 }
+  },
+  {
+    "latitude": 34.022405,
+    "longitude": -6.834543,
+    "location": "Casablanca Prefecture, Morocco",
+    "company_count": {
+      "Fondation MAScIR": 1,
+      "ENOVART": 1,
+      "INTELLCAP SARL": 1,
+      "Henceforth": 1,
+      "Centre National des recherches techniques et scien": 1,
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT) \u00b7 Tem": 1,
+      "STRS Lab, INPT": 1,
+      "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 1,
+      "4D": 1,
+      "Centex": 1,
+      "Gaya Pharmaceuticals - CRO": 1,
+      "Institut National des Postes et T\u00e9l\u00e9communications": 1,
+      "Soft Centre": 1,
+      "AIOX Labs (We are Hiring)": 1,
+      "ENOVA R&T": 1,
+      "INTELLCAP CORP": 1,
+      "INTELLCAP Corp": 1,
+      "Orange Maroc": 1,
+      " Stage technique \u00e0 INTELLCAP": 1,
+      "Huawei Tech": 1
+    }
+  },
+  {
+    "latitude": 34.26457,
+    "longitude": -6.570169,
+    "location": "Maroc",
+    "company_count": { "Stellantis": 1 }
+  },
+  {
+    "latitude": 34.5565311,
+    "longitude": -6.356485164134604,
+    "location": "Province de K\u00e9nitra, Morocco",
+    "company_count": { "AIC M\u00e9t": 1 }
+  },
+  {
+    "latitude": 35.202941,
+    "longitude": -5.5510167,
+    "location": "Tanger-Tetouan-Al Hoce\u00efma, Maroc",
+    "company_count": { "CIRES TECHNOLOGIES S.A": 1 }
+  },
+  {
+    "latitude": 35.4668038,
+    "longitude": -6.0327709,
+    "location": "Tanger-Asilah Prefecture, Morocco",
+    "company_count": { "SmartSource Maroc": 1 }
+  },
+  {
+    "latitude": 35.777103,
+    "longitude": -5.803792,
+    "location": "Abidjan, C\u00f4te d'Ivoire",
+    "company_count": { "Smart Automation Technologies": 1 }
+  },
+  {
+    "latitude": 43.5836,
+    "longitude": 7.10905,
+    "location": "Antibes, Provence-Alpes-C\u00f4te d\u2019Azur, France",
+    "company_count": { "Cambium Systems": 1 }
+  },
+  {
+    "latitude": 46.603354,
+    "longitude": 1.8883335,
+    "location": "Rabat Prefecture, Morocco",
+    "company_count": { "DELAPLAGE CONSULTING": 1 }
+  },
+  {
+    "latitude": 49.1196964,
+    "longitude": 6.1763552,
+    "location": "Rabat-Sal\u00e9-K\u00e9nitra, Maroc",
+    "company_count": { "Upgrade-Code.org": 1 }
+  },
+  {
+    "latitude": 50.0012314,
+    "longitude": 8.2762513,
+    "location": "Mainz, Rhineland-Palatinate, Germany",
+    "company_count": { "LIME": 1 }
+  }
+]
