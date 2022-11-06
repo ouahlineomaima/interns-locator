@@ -18,7 +18,7 @@ import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import logo from "../src/assets/Logo Zip File/png/logo2.png";
+import logo from "../src/assets/Logo Zip File/png/Sanstitre.png";
 
 import amoa_initiation from "./data/amoa_initiation.json";
 import amoa_technique from "./data/amoa_technique.json";
@@ -46,8 +46,6 @@ import software_pfe from "./data/software_pfe.json";
 import software_all from "./data/software_all.json";
 const drawerWidth = 240;
 
-
-
 const AppBar = styled(MuiAppBar, {
   shouldForwardProp: (prop) => prop !== "open",
 })(({ theme, open }) => ({
@@ -74,18 +72,17 @@ const DrawerHeader = styled("div")(({ theme }) => ({
   justifyContent: "flex-end",
 }));
 
-function MiniDrawer ({onChange}){
+function MiniDrawer({ onChange }) {
   const theme = useTheme();
   const [open, setOpen] = useState(false);
   const [job, setJob] = useState("Softawre engineering");
   const [type, setType] = useState(null);
   const string = !open ? "15em" : "5em";
   const mystyle = {
-    marginLeft: string
+    marginLeft: string,
   };
 
   const all = () => {
-    
     switch (job) {
       case "Software engineering":
         onChange(software_all);
@@ -166,7 +163,7 @@ function MiniDrawer ({onChange}){
   };
 
   useEffect(() => {
-    switch(type){
+    switch (type) {
       case "All types of":
         all();
         break;
@@ -178,9 +175,9 @@ function MiniDrawer ({onChange}){
         break;
       case "Technical":
         technique();
-        break; 
+        break;
     }
-  })
+  });
 
   const handleDrawerOpen = () => {
     setOpen(true);
@@ -189,7 +186,6 @@ function MiniDrawer ({onChange}){
   const handleDrawerClose = () => {
     setOpen(false);
   };
-
 
   return (
     <Box sx={{ display: "flex" }}>
@@ -333,9 +329,9 @@ function MiniDrawer ({onChange}){
             </ListItem>
           ))}
         </List>
-
+        <img src={logo} alt="" />
       </Drawer>
     </Box>
   );
-};
+}
 export default MiniDrawer;

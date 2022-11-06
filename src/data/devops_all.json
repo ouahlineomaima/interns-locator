@@ -47,7 +47,7 @@
     {"latitude": 33.9753428, 
     "longitude": -6.86943415289038, 
     "location": "Casablanca - Settat, Maroc", 
-    "company_count": {"Office National des Chemins de Fer (ONCF)": 1}}, 
+    "company_count": { "Office National des Chemins de Fer (ONCF)": 1, "Orange Maroc": 1 }}, 
 
     {"latitude": 34.022405, 
     "longitude": -6.834543, 
@@ -69,10 +69,6 @@
     "location": "Malta", 
     "company_count": {"Stipend": 1}},
 
-    {"latitude": 37.471554, 
-    "longitude": 21.6280349, 
-    "location": "Casablanca et p\u00e9riph\u00e9rie", 
-    "company_count": {"Orange Maroc": 1}},
 
     {"latitude": 45.733096, 
     "longitude": 4.8783959, 

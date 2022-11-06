@@ -1,11 +1,5 @@
 [
   {
-    "latitude": 11.568271,
-    "longitude": 104.9224426,
-    "location": "Maroc,Rabat",
-    "company_count": { "Kynex | Smart Digital Business Solutions": 1 }
-  },
-  {
     "latitude": 30.3927088,
     "longitude": -9.2132982,
     "location": "Ouled Teima",
@@ -306,18 +300,6 @@
     }
   },
   {
-    "latitude": 37.471554,
-    "longitude": 21.6280349,
-    "location": "Casablanca et p\u00e9riph\u00e9rie",
-    "company_count": { "CGI": 1 }
-  },
-  {
-    "latitude": 43.0059455,
-    "longitude": -123.8925908,
-    "location": "Remote",
-    "company_count": { "ADD_Officiel": 1 }
-  },
-  {
     "latitude": 43.5836,
     "longitude": 7.10905,
     "location": "Antibes, Provence-Alpes-C\u00f4te d\u2019Azur, France",
@@ -345,7 +327,7 @@
     "latitude": 46.603354,
     "longitude": 1.8883335,
     "location": "Rabat Prefecture, Morocco",
-    "company_count": { "DELAPLAGE CONSULTING": 1 }
+    "company_count": { "DELAPLAGE CONSULTING": 1, "ADD_Officiel": 1 }
   },
   {
     "latitude": 47.2186371,
