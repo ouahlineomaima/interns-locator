@@ -217,8 +217,8 @@ function MiniDrawer ({onChange}){
             </h4>
             <img src={logo} alt="" width={85} height={80} style={mystyle} />
             <div style={{ marginTop: "5px" }}>
-              <h4>Internships-Locator</h4>
-              <h6>Let The Map Guide You</h6>
+              <h4>LOC-INT</h4>
+              <h6>Let The Map Guides You</h6>
             </div>
           </Typography>
         </Toolbar>

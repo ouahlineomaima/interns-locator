@@ -50,7 +50,7 @@ function App() {
             }}
           >
             <div>
-              <h1>Interns-Locator</h1>
+              <h1>LOC-INT</h1>
               <p>Location: {activeAlumani.location}</p>
 
               <div>

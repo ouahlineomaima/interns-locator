@@ -1,1 +1,60 @@
-[{"latitude": 11.568271, "longitude": 104.9224426, "location": "Phnom Penh, Cambodia", "company_count": {"Kynex | Smart Digital Business Solutions": 1}}, {"latitude": 30.42203615, "longitude": -9.55950887633639, "location": "Agadir, Souss-Massa, Morocco", "company_count": {"ADI SOLAR ENERGY": 1, "Azura Group": 1}}, {"latitude": 31.1728205, "longitude": -7.3362482, "location": "Maroc", "company_count": {"1 Minute Script": 1, "Huawei Northern Africa Region": 1, "Siemens Digital Industries Software": 1}}, {"latitude": 33.5675527, "longitude": -7.618756606822727, "location": "Pr\u00e9fecture de Casablanca, Morocco", "company_count": {"Altran": 1, "ValueIT": 1}}, {"latitude": 33.9204332, "longitude": -6.3676093, "location": "Rabat-Sal\u00e9-Kenitra, Morocco", "company_count": {"Lear Corporation": 1, "Siemens Digital Industries Software": 1}}, {"latitude": 33.9667424, "longitude": -6.842641008106102, "location": "Rabat - Sal\u00e9 - K\u00e9nitra, Maroc", "company_count": {"Institut National des Postes et T\u00e9l\u00e9communications (INPT)": 1}}, {"latitude": 34.022405, "longitude": -6.834543, "location": "Rabat, Rabat - Sal\u00e9 - K\u00e9nitra, Maroc", "company_count": {"ENOVA R&T": 1, "Soft Centre": 1, "INTELLCAP SARL": 1, "Institut National des Postes et T\u00e9l\u00e9communications": 1, "Orange Digital Center": 1, "Huawei Tech": 1, "Minist\u00e8re de communication du royaume ": 1}}, {"latitude": 34.044889, "longitude": -6.814017, "location": "Medina, Marrakesh, Marrakesh-Safi, Morocco", "company_count": {"Lear Corporation": 1}}, {"latitude": 34.26457, "longitude": -6.570169, "location": "Kenitra, Rabat-Sal\u00e9-K\u00e9nitra, Maroc", "company_count": {"Stellantis": 1}}, {"latitude": 35.202941, "longitude": -5.5510167, "location": "Tanger-Tetouan-Al Hoceima, Morocco", "company_count": {"DENSO": 1}}, {"latitude": 35.777103, "longitude": -5.803792, "location": "Tanger", "company_count": {"Naturgy": 1}}, {"latitude": 43.6112422, "longitude": 3.8767337, "location": "Montpellier, Occitanie, France", "company_count": {"Universit\u00e9 de Mon": 1}}]
+[
+    {"latitude": 11.568271, 
+    "longitude": 104.9224426, 
+    "location": "Phnom Penh, Cambodia", 
+    "company_count": {"Kynex | Smart Digital Business Solutions": 1}},
+
+    {"latitude": 30.42203615, 
+    "longitude": -9.55950887633639, 
+    "location": "Agadir, Souss-Massa, Morocco", 
+    "company_count": {"ADI SOLAR ENERGY": 1, "Azura Group": 1}},
+     
+    {"latitude": 31.1728205, 
+    "longitude": -7.3362482, 
+    "location": "Maroc", 
+    "company_count": {"1 Minute Script": 1, "Huawei Northern Africa Region": 1, "Siemens Digital Industries Software": 1}},
+
+    {"latitude": 33.5675527, 
+    "longitude": -7.618756606822727, 
+    "location": "Pr\u00e9fecture de Casablanca, Morocco", 
+    "company_count": {"Altran": 1, "ValueIT": 1}},
+
+    {"latitude": 33.9204332, 
+    "longitude": -6.3676093, 
+    "location": "Rabat-Sal\u00e9-Kenitra, Morocco", 
+    "company_count": {"Lear Corporation": 1, "Siemens Digital Industries Software": 1}},
+
+    {"latitude": 33.9667424, 
+    "longitude": -6.842641008106102, 
+    "location": "Rabat - Sal\u00e9 - K\u00e9nitra, Maroc", 
+    "company_count": {"Institut National des Postes et T\u00e9l\u00e9communications (INPT)": 1}},
+
+    {"latitude": 34.022405, 
+    "longitude": -6.834543, 
+    "location": "Rabat, Rabat - Sal\u00e9 - K\u00e9nitra, Maroc", 
+    "company_count": {"ENOVA R&T": 1, "Soft Centre": 1, "INTELLCAP SARL": 1, "Institut National des Postes et T\u00e9l\u00e9communications": 1, "Orange Digital Center": 1, "Huawei Tech": 1, "Minist\u00e8re de communication du royaume ": 1}},
+
+    {"latitude": 34.044889, 
+    "longitude": -6.814017, 
+    "location": "Medina, Marrakesh, Marrakesh-Safi, Morocco", 
+    "company_count": {"Lear Corporation": 1}},
+
+    {"latitude": 34.26457, 
+    "longitude": -6.570169, 
+    "location": "Kenitra, Rabat-Sal\u00e9-K\u00e9nitra, Maroc", 
+    "company_count": {"Stellantis": 1}},
+
+    {"latitude": 35.202941, 
+    "longitude": -5.5510167, 
+    "location": "Tanger-Tetouan-Al Hoceima, Morocco", 
+    "company_count": {"DENSO": 1}},
+
+    {"latitude": 35.777103, 
+    "longitude": -5.803792, 
+    "location": "Tanger", 
+    "company_count": {"Naturgy": 1}},
+    {"latitude": 43.6112422, 
+    "longitude": 3.8767337, 
+    "location": "Montpellier, Occitanie, France", 
+    "company_count": {"Universit\u00e9 de Mon": 1}}
+]

@@ -1,1 +1,96 @@
-[{"latitude": 30.64438515, "longitude": -9.601830678196873, "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco", "company_count": {"GPC CARTON": 1}}, {"latitude": 31.1728205, "longitude": -7.3362482, "location": "Maroc", "company_count": {"INTELCIA": 1, "4D": 1}}, {"latitude": 31.6258257, "longitude": -7.9891608, "location": "Rabat", "company_count": {"High Atlas Foundation": 1}}, {"latitude": 33.5675527, "longitude": -7.618756606822727, "location": "Pr\u00e9fecture de Casablanca, Maroc", "company_count": {" Center for Excellence in Information Technology (CEIT)": 1, "CENTRE FOR EXCELLENCE IN INFORMATION TECHNOLOGY": 1}}, {"latitude": 33.5950627, "longitude": -7.6187768, "location": "Casablanca", "company_count": {"Soci\u00e9t\u00e9 g\u00e9n\u00e9rale Africa Technologies and ": 1, "Oracle": 1, "Banque Centrale Populaire - BCP": 1, "CBI": 1, "CENTRE FOR EXCELLENCE IN INFORMATION TECHNOLOGY": 1, "INTELCIA": 1, "NURV AU": 1, "Taillis Labs": 1, "NEOXIA Maroc": 2, "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale - Africa Technologies & Services": 1, "Matious Digital": 1, "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale African Business Services": 1, "OpsVox": 1}}, {"latitude": 33.6958383, "longitude": -7.3893292, "location": "Mohammedia, Casablanca-Settat, Morocco", "company_count": {"Matious Digital": 1}}, {"latitude": 33.897877, "longitude": -5.5320345, "location": "Mekn\u00e8s, Morocco", "company_count": {"Lafar": 1}}, {"latitude": 33.9204332, "longitude": -6.3676093, "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco", "company_count": {"Graviton.ma": 1, "DXC Technology": 1}}, {"latitude": 33.9667424, "longitude": -6.842641008106102, "location": "Pr\u00e9fecture de Rabat, Morocco", "company_count": {"FLEXI APPS": 1}}, {"latitude": 33.9753428, "longitude": -6.86943415289038, "location": "Casablanca - Settat, Maroc", "company_count": {"Office National des Chemins de Fer (ONCF)": 1}}, {"latitude": 34.022405, "longitude": -6.834543, "location": "Marrakesh-Safi, Morroco ", "company_count": {"Minist\u00e8re de la commu": 1, "Esport Academy Corporation": 1, "Ericsson": 1, "4D": 1, "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 1, "FY COMPUTING": 1, "Fondation MAScIR": 1, "Institut National des Postes et T\u00e9l\u00e9communications (INPT)": 1, "OFFICE NATIONAL INTERPROF CEREALES": 1, "Poste Maroc (Barid Al Maghrib)": 1, "WinDecision": 1, "ADVALIO": 1, "Henceforth": 1}}, {"latitude": 35.570175, "longitude": -5.3742776, "location": "T\u00e9touan ", "company_count": {"Veolia": 1}}, {"latitude": 35.777103, "longitude": -5.803792, "location": "Tanger, Morocco", "company_count": {"Yazaki": 1}}, {"latitude": 35.8885993, "longitude": 14.4476911, "location": "Malta", "company_count": {"Stipend": 1}}, {"latitude": 37.471554, "longitude": 21.6280349, "location": "Casablanca et p\u00e9riph\u00e9rie", "company_count": {"Orange Maroc": 1}}, {"latitude": 45.733096, "longitude": 4.8783959, "location": "Californie, \u00c9tats-Unis", "company_count": {"Metabob": 1}}, {"latitude": 48.1113387, "longitude": -1.6800198, "location": "Rennes, Bretagne, France", "company_count": {"D\u00e9partement SRDC \"Syst\u00e8mes r\u00e9seaux, cybers\u00e9curit\u00e9 et droit du num\u00e9rique\" de l'IMT Atlantique": 1}}, {"latitude": 48.6443057, "longitude": 2.7537863, "location": "Berlin, Germany", "company_count": {"D-AIM": 1}}, {"latitude": 50.0012314, "longitude": 8.2762513, "location": "Mainz, Rhineland-Palatinate, Germany", "company_count": {"LIME": 1}}]
+[
+    {"latitude": 30.64438515, 
+    "longitude": -9.601830678196873, 
+    "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco", 
+    "company_count": {"GPC CARTON": 1}},
+
+    {"latitude": 31.1728205, 
+    "longitude": -7.3362482, 
+    "location": "Maroc", 
+    "company_count": {"INTELCIA": 1, "4D": 1}},
+
+    {"latitude": 31.6258257, 
+    "longitude": -7.9891608, 
+    "location": "Rabat", 
+    "company_count": {"High Atlas Foundation": 1}},
+
+    {"latitude": 33.5675527, 
+    "longitude": -7.618756606822727, 
+    "location": "Pr\u00e9fecture de Casablanca, Maroc", 
+    "company_count": {" Center for Excellence in Information Technology (CEIT)": 2}},
+
+    {"latitude": 33.5950627, 
+    "longitude": -7.6187768, 
+    "location": "Casablanca", 
+    "company_count": {"Soci\u00e9t\u00e9 g\u00e9n\u00e9rale Africa Technologies and Services": 3, "Oracle": 1, "Banque Centrale Populaire - BCP": 1, "CBI": 1, "CENTRE FOR EXCELLENCE IN INFORMATION TECHNOLOGY": 1, "INTELCIA": 1, "NURV AU": 1, "Taillis Labs": 1, "NEOXIA Maroc": 2, "Matious Digital": 1, "OpsVox": 1}},
+
+    {"latitude": 33.6958383, 
+    "longitude": -7.3893292, 
+    "location": "Mohammedia, Casablanca-Settat, Morocco", 
+    "company_count": {"Matious Digital": 1}},
+
+    {"latitude": 33.897877, 
+    "longitude": -5.5320345, 
+    "location": "Mekn\u00e8s, Morocco", 
+    "company_count": {"Lafar": 1}},
+
+    {"latitude": 33.9204332,
+     "longitude": -6.3676093, 
+     "location": "Rabat, Rabat-Sal\u00e9-Kenitra, Morocco", 
+     "company_count": {"Graviton.ma": 1, "DXC Technology": 1}},
+
+    {"latitude": 33.9667424, 
+    "longitude": -6.842641008106102, 
+    "location": "Pr\u00e9fecture de Rabat, Morocco", 
+    "company_count": {"FLEXI APPS": 1}},
+
+    {"latitude": 33.9753428, 
+    "longitude": -6.86943415289038, 
+    "location": "Casablanca - Settat, Maroc", 
+    "company_count": {"Office National des Chemins de Fer (ONCF)": 1}}, 
+
+    {"latitude": 34.022405, 
+    "longitude": -6.834543, 
+    "location": "Marrakesh-Safi, Morroco ", 
+    "company_count": {"Minist\u00e8re de la communication": 1, "Esport Academy Corporation": 1, "Ericsson": 1, "4D": 1, "Institut national des postes et t\u00e9l\u00e9communications (INPT)": 2, "FY COMPUTING": 1, "Fondation MAScIR": 1, "OFFICE NATIONAL INTERPROF CEREALES": 1, "Poste Maroc (Barid Al Maghrib)": 1, "WinDecision": 1, "ADVALIO": 1, "Henceforth": 1}},
+
+    {"latitude": 35.570175, 
+    "longitude": -5.3742776, 
+    "location": "T\u00e9touan ", 
+    "company_count": {"Veolia": 1}},
+
+    {"latitude": 35.777103, 
+    "longitude": -5.803792, 
+    "location": "Tanger, Morocco", 
+    "company_count": {"Yazaki": 1}},
+
+    {"latitude": 35.8885993, 
+    "longitude": 14.4476911, 
+    "location": "Malta", 
+    "company_count": {"Stipend": 1}},
+
+    {"latitude": 37.471554, 
+    "longitude": 21.6280349, 
+    "location": "Casablanca et p\u00e9riph\u00e9rie", 
+    "company_count": {"Orange Maroc": 1}},
+
+    {"latitude": 45.733096, 
+    "longitude": 4.8783959, 
+    "location": "Californie, \u00c9tats-Unis", 
+    "company_count": {"Metabob": 1}},
+
+    {"latitude": 48.1113387, 
+    "longitude": -1.6800198, 
+    "location": "Rennes, Bretagne, France", 
+    "company_count": {"D\u00e9partement SRDC \"Syst\u00e8mes r\u00e9seaux, cybers\u00e9curit\u00e9 et droit du num\u00e9rique\" de l'IMT Atlantique": 1}},
+
+    {"latitude": 48.6443057, 
+    "longitude": 2.7537863, 
+    "location": "Berlin, Germany", 
+    "company_count": {"D-AIM": 1}},
+
+    {"latitude": 50.0012314, 
+    "longitude": 8.2762513, 
+    "location": "Mainz, Rhineland-Palatinate, Germany", 
+    "company_count": {"LIME": 1}}
+]
